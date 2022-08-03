@@ -1,30 +1,53 @@
-### Hi there 👋
+### Hi there, my name is Amit LAL 👋
 
-<!--
-**amitlals/amitlals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A little bit about me:
 
-Here are some ideas to get you started:
+- Sr. Technical Specialist/Architect @ Microsoft
+- Helping customers all over the world to accelerate their digital transformation leveraging SAP on Azure
+- Part of the Azure [Arc Jumpstart project team](https://aka.ms/arcjumpstart)
+- Previously part of the [Microsoft FastTrack](https://www.microsoft.com/fasttrack) team
+- 19+ years as an IT pro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi there, my name is Amit LAL 👋
-Bit about me:
+### Connect with me 🤝
 
-Sr. Technical Specailst for SAP Azure @ Microsoft
-Empowering others. <P>
-I'm a seasoned IT Architect and Cloud Engineer with rich technology and multi-Cloud exposure. SAP Basis and BW Expert with over 20 years in SAP consulting and project deliveries. I do have five professional passion areas -SAP, Infras, Analytics, Cloud, and AI/ML. 
+<a href="https://twitter.com/amitlalamitlal">
+  <img align="left" alt="Amit Lal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/amitlal/">
+  <img align="left" alt="Amit Lal's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.seifbassem.com/">
+  <img align="left" alt="Amit Lal's blog" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />
+</a>
 
-<p>Connect with me 🤝
-@amitlalamit - Twitter
-[LinkedIn]([url](https://www.linkedin.com/in/amitlal/))
- 
+</br>
 
-📝 Latest Blog Posts and activities
-[Microsoft Sentinel and Logic Apps can be the ‘Guardians of SAP Security Operations (SecOps)’?]([url](https://blogs.sap.com/2022/03/14/microsoft-sentinel-and-logic-apps-can-be-the-guardians-of-sap-security-operations-secops/?utm_source=sap.com&utm_campaign=technical+article))
+## Current projects and interests
+
+<p>
+<a href="https://aka.ms/azurearcjumpstart"><img src="https://azurearcjumpstart.io/img/jumpstart-logo.png" title="Azure Arc Jumpstart" alt="Azure Arc Jumpstart" width="40" height="40"/></a>&nbsp;
+<a href="https://azure.microsoft.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" title="Azure" alt="Azure" width="40" height="40"/></a>&nbsp;
+<a href="https://docs.microsoft.com/azure/azure-arc/overview"><img src="http://code.benco.io/icon-collection/azure-icons/Azure-Arc.svg" title="Azure Arc UI" alt="Azure Arc" width="40" height="40"/></a>&nbsp;
+<a href="https://docs.microsoft.com/azure/aks/"><img src="http://code.benco.io/icon-collection/azure-icons/Kubernetes-Services.svg" title="AKS" alt="AKS" width="40" height="40"/></a>&nbsp;
+<a href="https://docs.microsoft.com/azure/cost-management-billing/cost-management-billing-overview"><img src="http://code.benco.io/icon-collection/azure-icons/Cost-Management.svg" title="Azure Cost Management" alt="Azure Cost Management" width="40" height="40"/></a>&nbsp;
+<img src="http://code.benco.io/icon-collection/azure-icons/Dev-Console.svg" title="Automation" alt="Automation" width="40" height="40"/>&nbsp;
+<a href="https://docs.microsoft.com/azure/governance/"><img src="http://code.benco.io/icon-collection/azure-icons/Identity-Governance.svg" title="Azure Governance" alt="Azure Governance" width="40" height="40"/></a>&nbsp;
+<a href="https://docs.microsoft.com/en-us/azure/architecture/framework/"><img src="https://pbs.twimg.com/media/Ed9pG0kXkAAbMik.png" title="Azure Well Architected Framework" alt="Azure Well Architected Framework" width="50" height="50"/></a>&nbsp;
+</p>
+
+
+## 📝 Latest Blog Posts and activities
+
+- [Adding a user interface to your ARM templates](https://www.seifbassem.com/blogs/posts/azure-arm-templates-ui/)
+- [Azure Chaos Studio - Wreak Chaos in your Azure environment](https://www.seifbassem.com/blogs/unboxing/introducing-azure-chaos-studio/)
+- [Secure Azure Arc servers onboarding using Conditional Access](https://www.seifbassem.com/blogs/posts/azure-arc-secure-service-principal-onboarding-using-conditional-access/)
+- [Automate non-Azure servers with Azure Arc-enabled servers](https://www.seifbassem.com/blogs/posts/azure-arc-automation/)
+- Azure Arc Jumpstart Lightning episode
+
+    [![Watch the video](http://i3.ytimg.com/vi/bj7_phzzMS0/hqdefault.jpg)](https://youtu.be/bj7_phzzMS0)
+    
+---
+## GitHub activity 
+[![Seif's github stats](https://github-readme-stats.vercel.app/api?username=amitlals)](https://github.com/amitlals)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebassem&layout=compact)](https://github.com/sebassem)
