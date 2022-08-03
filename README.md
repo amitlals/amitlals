@@ -18,12 +18,13 @@ Hi there, my name is Amit LAL 👋
 Bit about me:
 
 Sr. Technical Specailst for SAP Azure @ Microsoft
-Empowering others.
+Empowering others. <P>
 I'm a seasoned IT Architect and Cloud Engineer with rich technology and multi-Cloud exposure. SAP Basis and BW Expert with over 20 years in SAP consulting and project deliveries. I do have five professional passion areas -SAP, Infras, Analytics, Cloud, and AI/ML. 
-Connect with me 🤝
+
+<p>Connect with me 🤝
 @amitlalamit - Twitter
-https://www.linkedin.com/in/amitlal/ - LinkedIn
+[LinkedIn]([url](https://www.linkedin.com/in/amitlal/))
  
 
 📝 Latest Blog Posts and activities
-
+[Microsoft Sentinel and Logic Apps can be the ‘Guardians of SAP Security Operations (SecOps)’?]([url](https://blogs.sap.com/2022/03/14/microsoft-sentinel-and-logic-apps-can-be-the-guardians-of-sap-security-operations-secops/?utm_source=sap.com&utm_campaign=technical+article))
