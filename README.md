@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there, my name is Amit LAL 👋
+Bit about me:
+
+Sr. Technical Specailst for SAP Azure @ Microsoft
+Empowering others.
+I'm a seasoned IT Architect and Cloud Engineer with rich technology and multi-Cloud exposure. SAP Basis and BW Expert with over 20 years in SAP consulting and project deliveries. I do have five professional passion areas -SAP, Infras, Analytics, Cloud, and AI/ML. 
+Connect with me 🤝
+@amitlalamit - Twitter
+https://www.linkedin.com/in/amitlal/ - LinkedIn
+ 
+
+📝 Latest Blog Posts and activities
+
