@@ -2,10 +2,10 @@
 
 A little bit about me:
 
-- Sr. Technical Specialist/Architect @ Microsoft
+- Sr. Technical Specialist/Architect @ Microsoft. A seasoned IT Architect and Cloud Engineer with rich technology and multi-Cloud exposure. 
 - Helping customers all over the world to accelerate their digital transformation leveraging SAP on Azure
 - Part of the Azure [Arc Jumpstart project team](https://aka.ms/arcjumpstart)
-- Previously part of the [Microsoft FastTrack](https://www.microsoft.com/fasttrack) team
+- SAP & Accenture Alumni 
 - 19+ years as an IT pro
 
 ### Connect with me 🤝
