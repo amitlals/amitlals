@@ -16,7 +16,7 @@ A little bit about me:
 <a href="https://www.linkedin.com/in/amitlal/">
   <img align="left" alt="Amit Lal's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.seifbassem.com/">
+<a href="https://www.amitlals.com/">
   <img align="left" alt="Amit Lal's blog" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />
 </a>
 
@@ -38,10 +38,10 @@ A little bit about me:
 
 ## 📝 Latest Blog Posts and activities
 
-- [Adding a user interface to your ARM templates](https://www.seifbassem.com/blogs/posts/azure-arm-templates-ui/)
-- [Azure Chaos Studio - Wreak Chaos in your Azure environment](https://www.seifbassem.com/blogs/unboxing/introducing-azure-chaos-studio/)
-- [Secure Azure Arc servers onboarding using Conditional Access](https://www.seifbassem.com/blogs/posts/azure-arc-secure-service-principal-onboarding-using-conditional-access/)
-- [Automate non-Azure servers with Azure Arc-enabled servers](https://www.seifbassem.com/blogs/posts/azure-arc-automation/)
+- [Adding a user interface to your ARM templates](https://www.amitlals.com/blogs/posts/azure-arm-templates-ui/)
+- [Azure Chaos Studio - Wreak Chaos in your Azure environment](https://www.amitlals.com/blogs/unboxing/introducing-azure-chaos-studio/)
+- [Secure Azure Arc servers onboarding using Conditional Access](https://www.amitlals.com/blogs/posts/azure-arc-secure-service-principal-onboarding-using-conditional-access/)
+- [Automate non-Azure servers with Azure Arc-enabled servers](https://www.amitlals.com/blogs/posts/azure-arc-automation/)
 - Azure Arc Jumpstart Lightning episode
 
     
