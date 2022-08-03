@@ -44,10 +44,10 @@ A little bit about me:
 - [Automate non-Azure servers with Azure Arc-enabled servers](https://www.seifbassem.com/blogs/posts/azure-arc-automation/)
 - Azure Arc Jumpstart Lightning episode
 
-    [![Watch the video](http://i3.ytimg.com/vi/bj7_phzzMS0/hqdefault.jpg)](https://youtu.be/bj7_phzzMS0)
+    
     
 ---
 ## GitHub activity 
-[![Seif's github stats](https://github-readme-stats.vercel.app/api?username=amitlals)](https://github.com/amitlals)
+[![Amit's github stats](https://github-readme-stats.vercel.app/api?username=amitlals)](https://github.com/amitlals)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebassem&layout=compact)](https://github.com/sebassem)
