@@ -7,7 +7,7 @@ A little bit about me:
 - Part of the Microsoft SAP SPT [SAP on Azure team](https://aka.ms/saponazure)
 - SAP & Accenture Alumni 
 - 19+ years as an IT pro
-- List of Certifications [Technical Certifications ](https://www.credly.com/users/amitlal-certifications)
+- [Technical Certifications Achieved ](https://www.credly.com/users/amitlal-certifications)
 
 ### Connect with me 🤝
 
