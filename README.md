@@ -2,11 +2,11 @@
 
 A little bit about me:
 
-- Sr. Technical Specialist/Architect @ Microsoft. A seasoned IT Architect and Cloud Engineer with rich technology and multi-Cloud exposure. 
+- Principal Technical Specialist/Architect @ Microsoft. A seasoned IT Architect and Cloud Engineer with rich technology and multi-Cloud exposure. 
 - Helping customers all over the world to accelerate their digital transformation leveraging SAP on Azure
 - Part of the Microsoft SAP SPT [SAP on Azure team](https://aka.ms/saponazure)
 - SAP & Accenture Alumni 
-- 19+ years as an IT pro
+- 20+ years as an IT pro
 - [Technical Certifications Achieved ](https://www.credly.com/users/amitlal-certifications)
 
 ### Connect with me 🤝
