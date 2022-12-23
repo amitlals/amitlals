@@ -2,7 +2,7 @@
 
 A little bit about me:
 
-- Principal Technical Specialist/Architect @ Microsoft. A seasoned IT Architect and Cloud Engineer with rich technology and multi-Cloud exposure. 
+- Principal Technical Specialist/Architect. A seasoned IT Architect and Cloud Engineer with rich technology and multi-Cloud exposure. 
 - Helping customers all over the world to accelerate their digital transformation leveraging SAP on Azure
 - Part of the Microsoft SAP SPT [SAP on Azure team](https://aka.ms/saponazure)
 - SAP & Accenture Alumni 
