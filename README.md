@@ -45,7 +45,9 @@ A little bit about me:
 - [Automate non-Azure servers with Azure Arc-enabled servers](https://www.amitlals.com/blogs/posts/azure-arc-automation/)
 - Azure Arc Jumpstart Lightning episode
 
-    
+## 📝 My Chrome Extension & Edge Add-on for Azure community - Free to download
+- [Edge Add-on](https://aka.ms/azurestatuschecker/)
+- [Chrome Extension](https://lnkd.in/gAKat9wb)
     
 ---
 ## GitHub activity 
