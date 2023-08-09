@@ -39,7 +39,7 @@ A little bit about me:
 
 ## 📝 Latest Blog Posts and activities
 
-- [Adding a user interface to your ARM templates](https://www.amitlals.com/blogs/posts/azure-arm-templates-ui/)
+- [Scenarios for SAP S/4HANA & Azure OpenAI](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/powering-your-business-with-ai-7-unbelievable-whiteboard/ba-p/3790982)
 - [Azure Chaos Studio - Wreak Chaos in your Azure environment](https://www.amitlals.com/blogs/unboxing/introducing-azure-chaos-studio/)
 - [Secure Azure Arc servers onboarding using Conditional Access](https://www.amitlals.com/blogs/posts/azure-arc-secure-service-principal-onboarding-using-conditional-access/)
 - [Automate non-Azure servers with Azure Arc-enabled servers](https://www.amitlals.com/blogs/posts/azure-arc-automation/)
