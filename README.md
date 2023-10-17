@@ -11,15 +11,6 @@ A little bit about me:
 
 ### Connect with me 🤝
 
-<a href="https://twitter.com/amitlalamitlal">
-  <img align="left" alt="Amit Lal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/amitlal/">
-  <img align="left" alt="Amit Lal's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.amitlals.com/">
-  <img align="left" alt="Amit Lal's blog" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />
-</a>
 
 </br>
 
