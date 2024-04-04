@@ -3,11 +3,12 @@
 A little bit about me:
 
 - Principal Technical Specialist/Architect. A seasoned IT Architect and Cloud Engineer with rich technology and multi-Cloud exposure. 
-- Helping customers all over the world to accelerate their digital transformation leveraging SAP on Azure
+- Helping customers all over the world to accelerate their digital transformation leveraging SAP workload on Azure
 - Part of the Microsoft SAP SPT [SAP on Azure team](https://aka.ms/saponazure)
 - SAP & Accenture Alumni 
-- 20+ years as an IT pro
+- 24+ years as an IT pro
 - [Technical Certifications Achieved ](https://www.credly.com/users/amitlal-certifications)
+- [Latest SAP on Azure Podcast with Holger April 2024 ](https://www.youtube.com/watch?v=aTRwgu_dx08&t)
 
 ### Connect with me 🤝
 
@@ -17,7 +18,6 @@ amitlal@outlook.com | [X @amitlalamitlal](https://x.com/amitlalamitlal) | [Linke
 ## Current projects and interests
 
 <p>
-<a href="https://aka.ms/azurearcjumpstart"><img src="https://azurearcjumpstart.io/img/jumpstart-logo.png" title="Azure Arc Jumpstart" alt="Azure Arc Jumpstart" width="40" height="40"/></a>&nbsp;
 <a href="https://azure.microsoft.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" title="Azure" alt="Azure" width="40" height="40"/></a>&nbsp;
 <a href="https://docs.microsoft.com/azure/azure-arc/overview"><img src="http://code.benco.io/icon-collection/azure-icons/Azure-Arc.svg" title="Azure Arc UI" alt="Azure Arc" width="40" height="40"/></a>&nbsp;
 <a href="https://docs.microsoft.com/azure/aks/"><img src="http://code.benco.io/icon-collection/azure-icons/Kubernetes-Services.svg" title="AKS" alt="AKS" width="40" height="40"/></a>&nbsp;
