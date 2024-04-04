@@ -11,7 +11,7 @@ A little bit about me:
 
 ### Connect with me 🤝
 
-amitlal@outlook.com | [X @amitlalamitlal]([url](https://x.com/amitlalamitlal)) | [LinkedIn](https://linkedin.com/in/amitlal)
+amitlal@outlook.com | [X @amitlalamitlal](https://x.com/amitlalamitlal) | [LinkedIn](https://linkedin.com/in/amitlal)
 
 
 ## Current projects and interests
