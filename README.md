@@ -45,3 +45,22 @@ amitlal@outlook.com | [X @amitlalamitlal](https://x.com/amitlalamitlal) | [Linke
 [![Amit's github stats](https://github-readme-stats.vercel.app/api?username=amitlals)](https://github.com/amitlals)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebassem&layout=compact)](https://github.com/sebassem)
+<table
+      align="center"
+      role="presentation"
+      cellspacing="0"
+      cellpadding="0"
+      border="0"
+      width="100%"
+      style="max-width: 800px; margin: 0 auto"
+    >
+    <tr>
+ <td style="width: 800; line-height: 0px;">
+            <img
+              style="display: block;"
+              width="800"
+              src="https://github.com/amitlals/amitlals/blob/main/SPTAmericaBanner.jpg"
+            />
+          </td>
+</tr>
+</table>
