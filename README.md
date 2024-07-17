@@ -47,5 +47,5 @@ amitlal@outlook.com | [X @amitlalamitlal](https://x.com/amitlalamitlal) | [Linke
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebassem&layout=compact)](https://github.com/sebassem)
 <br>
 <br>
-<img src="[(https://github.com/amitlals/amitlals/blob/main/SPTAmericaBanner.jpg)](https://github.com/amitlals/amitlals/blob/main/SPTAmericaBanner.jpg)" alt="Automation"/>&nbsp;
+<img src="https://github.com/amitlals/amitlals/blob/main/SPTAmericaBanner.jpg" alt="Automation"/>&nbsp;
           
