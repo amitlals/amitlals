@@ -46,22 +46,6 @@ amitlal@outlook.com | [X @amitlalamitlal](https://x.com/amitlalamitlal) | [Linke
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebassem&layout=compact)](https://github.com/sebassem)
 <br>
-<table
-      align="center"
-      role="presentation"
-      cellspacing="0"
-      cellpadding="0"
-      border="0"
-      width="100%"
-      style="max-width: 800px; margin: 0 auto"
-    >
-    <tr>
- <td style="width: 800; line-height: 0px;">
-            <img
-              style="display: block;"
-              width="800"
-              src="https://github.com/amitlals/amitlals/blob/main/SPTAmericaBanner.jpg"
-            />
-          </td>
-</tr>
-</table>
+<br>
+<img src="[http://code.benco.io/icon-collection/azure-icons/Dev-Console.svg](https://github.com/amitlals/amitlals/blob/main/SPTAmericaBanner.jpg)" title="Automation" alt="Automation" width="1792" height="1024"/>&nbsp;
+          
