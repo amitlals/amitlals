@@ -45,6 +45,7 @@ amitlal@outlook.com | [X @amitlalamitlal](https://x.com/amitlalamitlal) | [Linke
 [![Amit's github stats](https://github-readme-stats.vercel.app/api?username=amitlals)](https://github.com/amitlals)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebassem&layout=compact)](https://github.com/sebassem)
+<br>
 <table
       align="center"
       role="presentation"
