@@ -16,7 +16,8 @@ I'm an expert in SAP integrations and AI solutions, focusing on bridging enterpr
 
 <div align="center">
   <a href="https://www.amazon.com/AI-2040-Artificial-Intelligence-Reshape-ebook/dp/B0DNQ1N4G1">
-    <img src="https://m.media-amazon.com/images/I/61+6Z4wfCZL._SL500_.jpg" alt="AI in 2040" width="200"/>
+    <img width="894" alt="image" src="https://github.com/user-attachments/assets/1571e138-bbd4-4d7e-ae5c-693c24fd92d1" />
+
   </a>
 </div>
 
