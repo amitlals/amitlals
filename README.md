@@ -1,10 +1,10 @@
 # Hello, I'm Amit Lal! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amitlal-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/amitlal)
-[![Twitter](https://img.shields.io/badge/Twitter-amitlalamitlal-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amitlalamitlal)
-[![Blog](https://img.shields.io/badge/Blog-blogspot.amitlal.com-orange?style=flat-square&logo=blogger&logoColor=white)](https://blogspot.amitlal.com)
+[![Twitter](https://img.shields.io/badge/Twitter-amitlalamitlal-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/amitlalamitlal)
+[![Blog](https://img.shields.io/badge/medium.com-green?style=flat-square&logo=blogger&logoColor=white)](https://medium.com/@amitlalyt)
 [![GitHub followers](https://img.shields.io/github/followers/amitlals?label=Follow&style=social)](https://github.com/amitlals)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_placeholder)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/saponazure)
 
 ## 💼 About Me
 
@@ -12,7 +12,7 @@ I'm an expert in SAP integrations and AI solutions, focusing on bridging enterpr
 
 > 🔍 *Exploring the intersection of enterprise systems and artificial intelligence*
 
-## 📚 Latest Book
+## 📚 My Latest Published book on AI
 
 <div align="center">
   <a href="https://www.amazon.com/AI-2040-Artificial-Intelligence-Reshape-ebook/dp/B0DNQ1N4G1">
@@ -25,7 +25,7 @@ I'm an expert in SAP integrations and AI solutions, focusing on bridging enterpr
 
 An in-depth exploration of how artificial intelligence will transform society, business, and daily life by the year 2040. This book examines potential paths of AI development and its implications across multiple industries.
 
-## 🤖 Custom GPT
+## 🤖 Custom GPT Live
 
 <div align="center">
   <a href="https://chatgpt.com/g/g-P0b7jVeUn-sap-on-azure-technical-copilot">
@@ -38,7 +38,7 @@ An in-depth exploration of how artificial intelligence will transform society, b
 
 A specialized GPT designed to provide expert guidance on SAP deployments and integrations in Azure environments. Get technical assistance, best practices, and troubleshooting help for your SAP on Azure scenarios.
 
-## 📝 Latest Blog Posts
+## 📝 Latest technical articles on Microsoft community blogs | Follow for more...
 
 ### SAP and AI Integration
 - 🚀 [Powering Your Business with AI: 7 Unbelievable Whiteboard Scenarios for SAP S/4HANA & Azure OpenAI](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/powering-your-business-with-ai-7-unbelievable-whiteboard-scenarios-for-sap-s4han/3790982)
@@ -51,17 +51,17 @@ A specialized GPT designed to provide expert guidance on SAP deployments and int
 
 ## 🎥 Featured Content
 
-### YouTube Videos
-- 📹 [SAP and AI Integration Solutions Demo](https://www.youtube.com/watch?v=aTRwgu_dx08&t) - Watch how I integrate SAP systems with modern AI solutions
+### YouTube Videos 
+- 📹 [SAP and AI Integration Solutions Demo](https://www.youtube.com/watch?v=aTRwgu_dx08&t) - Recent podcast on Unoffical SAP on Azure Channel. Watch how I integrate SAP systems with modern AI solutions
 
-### 🌐 Browser Extensions
+### 🌐 Browser Extensions 
 - 📝 **My Chrome Extension & Edge Add-on for Azure community - Free to download**
   - [Edge Add-on](https://aka.ms/azurestatuschecker/) - Azure Status Checker for Microsoft Edge
   - [Chrome Extension](https://lnkd.in/gAKat9wb) - Azure Status Checker for Google Chrome
 
 ## 🛠️ Projects and Repositories
 
-### L100-Beginners
+### L100-4-Beginners
 <a href="https://github.com/microsoft/ai-agents-for-beginners">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=ai-agents-for-beginners&theme=react" />
 </a>
@@ -76,9 +76,9 @@ A specialized GPT designed to provide expert guidance on SAP deployments and int
 - 🤖 **[SAP-EWA-Copilot-Agent-v2](https://github.com/amitlals/SAP-EWA-Copilot-Agent-v2)** - Enhanced SAP Early Watch Alert Copilot Agent with advanced features
 - 📊 **[Stock-Analysis-AutoGen-Multi-Agent-Azure-AI-Foundry](https://github.com/amitlals/Stock-Analysis-AutoGen-Multi-Agent-Azure-AI-Foundry)** - Multi-agent system for stock analysis using AutoGen and Azure AI
 - 💰 **[AI-Financial-Engineering-Agentic-System](https://github.com/amitlals/AI-Financial-Engineering-Agentic-System)** - Agentic system for financial engineering and analysis
-- 🧩 **[TaskWeaver-SAP-AI-AGENT](https://github.com/amitlals/TaskWeaver-SAP-AI-AGENT)** - TaskWeaver implementation for SAP AI agents
+- 🧩 **[TaskWeaver-SAP-AI-AGENT](https://github.com/amitlals/TaskWeaver-SAP-AI-AGENT)** - TaskWeaver implementation for SAP AI agents with custom connector
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats for nerds
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitlals&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
