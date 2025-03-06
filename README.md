@@ -45,6 +45,7 @@ A specialized GPT designed to provide expert guidance on SAP deployments and int
 - 🔮 [Uncover the Future: Microsoft Autonomous AI Agents Analyzing SAP Data Insights](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/uncover-the-future-microsoft-autonomous-ai-agents-analyzing-sap-data-insights/4005307)
 
 ### Power Platform Innovations
+- 💰 NEW!! [Automating SAP Technical Reports and Using Microsoft AI](https://community.powerplatform.com/blogs/post/?postid=b738010c-c5fa-ef11-be20-6045bdf03fcb)
 - 🤖 [Unleashing the Power of Microsoft Copilot Studio for SAP Technical Reports](https://community.powerplatform.com/blogs/post/?postid=b04a1e37-8964-ef11-bfe3-6045bda6da2f)
 - ⚡ [Ready to Transform SAP Management? Microsoft Copilot Agents Are Here!](https://community.powerplatform.com/blogs/post/?postid=6a8fb326-068d-ef11-ac21-6045bda6da2f)
 - 🌱 [AI: The New Climate Warriors? SAP SustainWatch Runs on M365 Copilot Wave 2](https://community.powerplatform.com/blogs/post/?postid=243d8c38-1c7a-ef11-a671-7c1e52167d6c)
