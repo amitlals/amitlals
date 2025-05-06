@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-amitlalamitlal-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/amitlalamitlal)
 [![Blog](https://img.shields.io/badge/medium.com-green?style=flat-square&logo=blogger&logoColor=white)](https://medium.com/@amitlalyt)
 [![GitHub followers](https://img.shields.io/github/followers/amitlals?label=Follow&style=social)](https://github.com/amitlals)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/saponazure)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube&logoColor=white)](www.youtube.com/@AI-with-AmitLal)
 
 ## 💼 About Me
 
@@ -53,7 +53,9 @@ A specialized GPT designed to provide expert guidance on SAP deployments and int
 ## 🎥 Featured Content
 
 ### YouTube Videos 
-- 📹 [SAP and AI Integration Solutions Demo](https://www.youtube.com/watch?v=aTRwgu_dx08&t) - Recent podcast on Unoffical SAP on Azure Channel. Watch how I integrate SAP systems with modern AI solutions
+- 📹 [My Channel coming soon!Please subscribe!](https://www.youtube.com/@AI-with-AmitLal/)  
+- 📹 [#185 -SAP and AI Integration Solutions Demo - May, 2024](https://www.youtube.com/watch?v=aTRwgu_dx08&t)
+- 📹 [#238 - The one with Copilot & AI Agents for SAP - May,2025 | SAP on Azure Video Podcast](https://youtu.be/JM2MD3_tJRY?si=h4EGvTNTXWVNedFl&t=15) 
 
 ### 🌐 Browser Extensions 
 - 📝 **My Chrome Extension & Edge Add-on for Azure community - Free to download**
