@@ -134,7 +134,7 @@ A specialized GPT designed to provide expert guidance on SAP deployments and int
   <a href="https://twitter.com/amitlalamitlal">
     <img src="https://img.shields.io/badge/-amitlalamitlal-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="https://blogspot.amitlal.com">
+  <a href="https://amitlals.github.io">
     <img src="https://img.shields.io/badge/-Blog-orange?style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
 </p>
@@ -145,6 +145,14 @@ A specialized GPT designed to provide expert guidance on SAP deployments and int
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=amitlals.amitlals" alt="visitor badge"/>
   <br/>
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H61EGBE6)
   <i>Last updated: 2025-03-04</i>
 </p>
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('amitlall', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#f45d22',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
