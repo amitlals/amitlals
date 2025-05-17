@@ -145,5 +145,6 @@ A specialized GPT designed to provide expert guidance on SAP deployments and int
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=amitlals.amitlals" alt="visitor badge"/>
   <br/>
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H61EGBE6)
   <i>Last updated: 2025-03-04</i>
 </p>
