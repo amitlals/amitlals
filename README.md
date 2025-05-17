@@ -147,12 +147,3 @@ A specialized GPT designed to provide expert guidance on SAP deployments and int
   <br/>
   <i>Last updated: 2025-03-04</i>
 </p>
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('amitlall', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#f45d22',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
