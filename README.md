@@ -133,7 +133,7 @@ A specialized GPT designed to provide expert guidance on SAP deployments and int
   </a>
   <a href="https://amitlals.github.io">
     <img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
+  </a><br>
   <a href="https://ko-fi.com/H2H61EGBE6">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg"/>
   </a>
